@@ -1,0 +1,16 @@
+body {
+	background: #666666;
+}
+
+.jumbotron {
+	background: white;
+}
+
+input, label, form {
+	margin: 5px;
+	padding-right: 10px;
+}
+
+.table {
+	background: #666666;
+}
